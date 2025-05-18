@@ -1,6 +1,6 @@
 {
   "name": "leedly-picture-bed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "leedly图床",
   "main": "index.js",
   "scripts": {
